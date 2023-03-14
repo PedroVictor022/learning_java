@@ -1,6 +1,6 @@
 // Create a class Bicycle
 
-public class Bicycle {
+class Bicycle {
   int cadence = 0;
   int speed = 0;
   int gear = 1;
