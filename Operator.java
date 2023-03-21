@@ -4,6 +4,15 @@ public class Operator {
     int rest = result % 8;
     int age1 = 18;
     int age2 = 17;
+
+    int a = 100;
+    int b = 10;
+
+    a/=4; // 25
+    b*=2; // 20
+
+    System.out.println(a);
+    System.out.println(b);
     
     System.out.println("10 + 10 = " + result);
 
