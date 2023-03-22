@@ -1,3 +1,4 @@
+
 public class PrimitiveTypes {
   byte n1 = 127; // max number this is a 127
   short n2 = 23769;
@@ -25,6 +26,7 @@ class ArrayDemo {
     };
 
     // Allocate memory for 10 integers
+
     intArray = new int[5];
 
     intArray[0] = 2;

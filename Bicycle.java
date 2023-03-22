@@ -1,4 +1,4 @@
-// Create a class Bicycle
+
 
 class Bicycle {
   int cadence = 0;
