@@ -1,3 +1,4 @@
+package basic;
 
 public class PrimitiveTypes {
   byte n1 = 127; // max number this is a 127
@@ -8,6 +9,7 @@ public class PrimitiveTypes {
 
   boolean isTrue = false;
   char name = 122;
+
   String myName = "Pedro";
 
 }

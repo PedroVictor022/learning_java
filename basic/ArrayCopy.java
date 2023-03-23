@@ -1,4 +1,6 @@
 
+package basic;
+
 class ArrayCopy {
   public static void main(String[] args) {
    String[] names = {
