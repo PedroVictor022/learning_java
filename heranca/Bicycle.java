@@ -1,5 +1,3 @@
-package basic;
-
 
 class Bicycle {
   int cadence = 0;

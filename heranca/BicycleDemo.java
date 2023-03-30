@@ -1,6 +1,3 @@
-
-package basic;
-
 public class BicycleDemo {
   public static void main(String[] args) {
     
